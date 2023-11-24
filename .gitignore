@@ -1,0 +1,4 @@
+# pixi environments
+.pixi
+/node_modules
+/__pycache__
